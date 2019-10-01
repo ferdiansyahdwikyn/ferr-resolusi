@@ -3,7 +3,9 @@ Rencana Konten Ferr
 -Interview
 *entepreneur
 *digital marketer
--struktur dasar bisnis
+ ^google ads
+ ^facebook ads
 -Kolaborasi sesama pengusaha
+ ^ricohuang
 -brand
 -vlogs
